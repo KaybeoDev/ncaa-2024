@@ -4,6 +4,6 @@
 
 "matchups.csv": Matchups within the March Madness tournament for all years of team-data.csv except 2024.
 
-"matchups-data.csv": A fusion of team-data.csv and matchups.csv to compare data in each game for ML training/testing.
+"training.csv": A fusion of team-data.csv and matchups.csv with randomized winners to compare data in each game for ML training/testing.
 
-"predict-R#.csv": Predictions for rounds (# = 0-6, inclusive) of March Madness 2024. Later rounds based on 3 model results for prior rounds.
+"matchups-YY-R#.csv": Matchups (or predicted matchups) for rounds (YY = year, # = 1-6 inclusive) of March Madness. Later rounds based on 3 model results for prior rounds. Code for the model draws from this and team-data.csv to predict.
