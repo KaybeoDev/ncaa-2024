@@ -1,3 +1,3 @@
 Unprocessed data sourced from https://barttorvik.com/.
 
-"matchups-unprocessed.csv": March Madness matchups up to (excluding) current year (2024). Has team names instead of stats (`/processed/matchups.csv` has team names replaced with stats).
+"matchups-unprocessed.csv": March Madness matchups up to (excluding) current year (2024). Has team names instead of stats (`/data/matchups.csv` has team names replaced with stats).
